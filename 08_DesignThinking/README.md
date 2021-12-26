@@ -1,5 +1,5 @@
-# Design Thinking
-Problem : How might we improve the online learning experience much better?
+## Design Thinking
+#Problem : How might we improve the online learning experience much better?
 
 ![image](./DesignThinking_01Empathize.png)
 
