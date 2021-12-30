@@ -19,3 +19,5 @@ We create a feature at customer level from Retail_Data_Transactions and then joi
 
 ## XGBoost
 ![Oversampling](./img05_XGBoost.png)
+
+[Click to Jupyter Notebook](./Campaign_Response_Model.ipynb)
