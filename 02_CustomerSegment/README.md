@@ -15,3 +15,5 @@ We use [Supermarket data](https://drive.google.com/u/0/uc?export=download&confir
 
 # Use Decision Tree to create a rule for clustering
 ![TreeHelp](./img04_TreeHelp.png)  
+
+[Click to Jupyter Notebook](./Customer_Segmentation.ipynb)
