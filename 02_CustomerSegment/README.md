@@ -4,7 +4,7 @@ We use [Supermarket data](https://drive.google.com/u/0/uc?export=download&confir
 # Supermarket data
 ![Supermarket](./img00_TransactionData.png)  
 
-# Transform data to customer single view]
+# Transform data to customer single view
 ![customerdata](./img01_customerdata.png)
 
 # Use the K-means function to clustering
