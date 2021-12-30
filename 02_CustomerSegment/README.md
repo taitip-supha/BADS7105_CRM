@@ -2,7 +2,7 @@
 We use [Supermarket data](https://drive.google.com/u/0/uc?export=download&confirm=He6k&id=1xbh4FBFpYkOz1TFHMPtrPCsfn7TFOV1H) to cluster existing customers of the supermarket.
 
 # Supermarket data
-![Supermarket](./img00_TransactionData.png)  
+![Supermarket](./img00_Transaction.png)  
 
 # Transform data to customer single view
 ![customerdata](./img01_customerdata.png)
