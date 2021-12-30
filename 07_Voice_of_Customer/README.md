@@ -1,6 +1,6 @@
 ## Voice of customer
 We are using K-Mean clustering to cluster The wongnai review (300 review).
-[Jupyter notebook](./Voice_of_customer.ipynb)
+![Jupyter notebook](./Voice_of_customer.ipynb)
 
 ## Review data
 ![img00_data](./img00_data.png)
