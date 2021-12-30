@@ -11,3 +11,5 @@
 
 ## result from cosine similarity
 ![cosine](./img03_result_cosine.png)  
+
+[Click to Jupyter Notebook](./Product_Recommendation_6310422009.ipynb)
