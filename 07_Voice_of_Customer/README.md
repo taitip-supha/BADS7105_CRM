@@ -1,6 +1,7 @@
 ## Voice of customer
 We are using K-Mean clustering to cluster The wongnai review (300 review).
-![Jupyter notebook](./Voice_of_customer.ipynb)
+
+
 
 ## Review data
 ![img00_data](./img00_data.png)
@@ -16,3 +17,5 @@ We are using K-Mean clustering to cluster The wongnai review (300 review).
 
 ## Interpret Result
 ![img04_interpret](./img04_interpret.png)
+
+[click to Jupyter notebook](./Voice_of_customer.ipynb)
