@@ -1,5 +1,4 @@
-## BADS7105_CRM
-Customer Analytics and Intelligence - 1st Semester, 2021
+## CRM Tools
 
 - [x] [Customer Dashboard](./01_CustomerDashboard)
 - [x] [Customer Segmentation](./02_CustomerSegment) 
